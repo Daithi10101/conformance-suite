@@ -103,7 +103,9 @@
           "responseType": "$responseType",
           "state": "$token_name",
           "nonce": "true",
-          "exp": "true"
+          "exp": "true",
+          "nbf": "true",
+          "iat": "true"
         }
       },
       "context": {
